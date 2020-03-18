@@ -16,7 +16,7 @@ package redis
 
 import (
 	"bytes"
-	"context"
+	"golang.org/x/net/context"
 	"crypto/rand"
 	"crypto/sha1"
 	"errors"
